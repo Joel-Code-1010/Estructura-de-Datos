@@ -1,0 +1,4 @@
+PROYECTO
+El proyecto estara un poco orientado a estadisticas 
+
+tarea, generar un programa que lanze un dado 100 veces
